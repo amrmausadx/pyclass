@@ -1,4 +1,4 @@
-# pyclass
+# pyClass
 كل اكواد المواد الاساسية للبرمجة بالبايثون
 
  * Educational Code
