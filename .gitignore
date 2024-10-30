@@ -163,6 +163,7 @@ cython_debug/
 
 
 #Custom files
+.gitignore
 030_loops.ipynb
 040_strings.ipynb
 050_lists.ipynb
